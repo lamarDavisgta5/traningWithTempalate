@@ -1,2 +1,2 @@
-# traningWithTempalate
-this program is for traning template types in C++ 
+# traningWithC++
+all of the files are traning with the c++ 
