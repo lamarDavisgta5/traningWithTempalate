@@ -4,7 +4,6 @@
 # include <string>
 # include <cmath>
 # include <math.h>
-constexpr auto gravity { 9.8 };
 
 void car () {
   std :: cout << "A car is moving in a speed and by seeing the barrier " << '\n';
